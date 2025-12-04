@@ -48,6 +48,7 @@
 #for i in range(odamlar):
     #ismlar.append(input(f"{i+1}-Gaplashgan odam Kim:"))
 #print(ismlar)
+print("salom")
 
 
 
